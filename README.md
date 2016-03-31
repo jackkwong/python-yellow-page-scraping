@@ -1,5 +1,5 @@
 # python-yellow-page-scraping
-Practical Project 1 - Scraping HK companies' contact info (GoGoVan Data Science Study Group)
+Practical Project 1 - Scraping HK companies' contact info (Data Science Study Group)
 
 ##Trello
 https://trello.com/c/jEHvTaf0/588-marketing-scraping-project
